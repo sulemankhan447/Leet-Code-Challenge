@@ -1,3 +1,3 @@
-# Leetcode May Challeneg
+# Leetcode May Challenge
 
-### Solution are in Kotlin and Python 
+### Solution are available in Kotlin and Python Progamming  Language. 
