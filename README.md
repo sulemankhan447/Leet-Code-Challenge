@@ -9,7 +9,7 @@ If You want to contribute then do these steps :
 ## 2. Clone in your system
 ## 3. Do push on your repository
 
-## Steps to push on your system :
+### Steps to push on your system :
 
 ### 1. git add .
 ### 2. git commit -m 'Commit message'
